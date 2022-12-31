@@ -1,4 +1,4 @@
-# OpenAi-Discord-Bot
+# OpenAi-Discord-Chat-Bot
 
 A discord bot where AI will answer your questions.
 Discord bot created using an API from openAI which read messages and returns answers.
